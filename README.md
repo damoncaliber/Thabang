@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
- As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, Python, R and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve while also enjoy the process. This Portfolio showcases the Data Analysis and Data Science projects I have completed for self-learning purposes.
+ As a data analyst with expertise in Spreadsheets, SQL, Python, R, and Power BI,  I enjoy turning raw data into actionable insights that drive meaningful decisions and measurable impact. Strong communication, problem-solving, and critical-thinking skills help me collaborate effectively and approach challenges with focus and accountability. This portfolio presents the data analysis and data science projects I’ve completed to deepen my skills and share practical, real-world results..
 <br><br><br>
 
 </p>
