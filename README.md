@@ -23,7 +23,7 @@
 * My Data Analysis toolkit includes Excel, SQL, Python, Tableau, Power BI and R Programming Language.
   
 
-* I am pursuing a Bachelor's degree in Mathematical Sciences at the University of South Africa and I am currently in my final year of study.
+* I am pursuing a Bachelor's degree in Mathematical Sciences, majoring in Mathematics & Computer Sciences at the University of South Africa and I am currently in my final year of study.
 
 * When I'm not analyzing data, I read, design clothes, exercise, paint and play billiards.
   
