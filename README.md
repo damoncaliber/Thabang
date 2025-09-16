@@ -62,6 +62,6 @@
 
 ## Dashboards
 
-Check out my Power BI Dashboards #[here](https://https://github.com/damoncaliber/BMW-sales-analysis-)
+Check out my Power BI Dashboards #[here](https://github.com/damoncaliber/BMW-sales-analysis-)
 
 
