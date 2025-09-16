@@ -5,7 +5,7 @@
 <h3 align="center"> Data Analyst </h3>
 <p align="center">+27829652685 | manebanebad@gmail.com </p>
 <p align="center">
-<a href=www.linkedin.com/in/thabang-manebaneba" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="thabang-manebaneba linkedin" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/thabang-manebaneba" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="thabang-manebaneba linkedin" height="40" width="40" /></a>
 </p>
 </p>
 
